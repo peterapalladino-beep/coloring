@@ -1,0 +1,318 @@
+{
+  "interior_pages": 84,
+  "trim_inches": [
+    8.5,
+    11
+  ],
+  "coloring_pictures": 40,
+  "blank_reverse_pages": [
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34,
+    36,
+    38,
+    40,
+    42,
+    44,
+    46,
+    48,
+    50,
+    52,
+    54,
+    56,
+    58,
+    60,
+    62,
+    64,
+    66,
+    68,
+    70,
+    72,
+    74,
+    76,
+    78,
+    80,
+    82,
+    84
+  ],
+  "spine_inches": 0.189168,
+  "wrap_inches": [
+    17.439168000000002,
+    11.25
+  ],
+  "image_resolution": [
+    {
+      "picture": 1,
+      "name": "Asian elephant",
+      "interior_pdf_page": 5,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 2,
+      "name": "Toucan",
+      "interior_pdf_page": 7,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 3,
+      "name": "Sloth",
+      "interior_pdf_page": 9,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 4,
+      "name": "Gorilla",
+      "interior_pdf_page": 11,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 5,
+      "name": "Tiger",
+      "interior_pdf_page": 13,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 6,
+      "name": "Orangutan",
+      "interior_pdf_page": 15,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 7,
+      "name": "Tree frog",
+      "interior_pdf_page": 17,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 8,
+      "name": "Tapir",
+      "interior_pdf_page": 19,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 9,
+      "name": "Macaw",
+      "interior_pdf_page": 21,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 10,
+      "name": "Capybara",
+      "interior_pdf_page": 23,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 11,
+      "name": "Chimpanzee",
+      "interior_pdf_page": 25,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 12,
+      "name": "Okapi",
+      "interior_pdf_page": 27,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 13,
+      "name": "Butterfly",
+      "interior_pdf_page": 29,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 14,
+      "name": "Pygmy hippopotamus",
+      "interior_pdf_page": 31,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 15,
+      "name": "Gecko",
+      "interior_pdf_page": 33,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 16,
+      "name": "Pangolin",
+      "interior_pdf_page": 35,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 17,
+      "name": "Hornbill",
+      "interior_pdf_page": 37,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 18,
+      "name": "Ring-tailed coati",
+      "interior_pdf_page": 39,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 19,
+      "name": "Bongo antelope",
+      "interior_pdf_page": 41,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 20,
+      "name": "Iguana",
+      "interior_pdf_page": 43,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 21,
+      "name": "Jaguar",
+      "interior_pdf_page": 45,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 22,
+      "name": "Spider monkey",
+      "interior_pdf_page": 47,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 23,
+      "name": "Caiman",
+      "interior_pdf_page": 49,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 24,
+      "name": "Red panda",
+      "interior_pdf_page": 51,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 25,
+      "name": "Anteater",
+      "interior_pdf_page": 53,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 26,
+      "name": "Mandrill",
+      "interior_pdf_page": 55,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 27,
+      "name": "Cassowary",
+      "interior_pdf_page": 57,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 28,
+      "name": "Lemur",
+      "interior_pdf_page": 59,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 29,
+      "name": "Boa constrictor",
+      "interior_pdf_page": 61,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 30,
+      "name": "Sun bear",
+      "interior_pdf_page": 63,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 31,
+      "name": "Poison dart frogs",
+      "interior_pdf_page": 65,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 32,
+      "name": "Kinkajou",
+      "interior_pdf_page": 67,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 33,
+      "name": "Leafcutter ants",
+      "interior_pdf_page": 69,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 34,
+      "name": "Ocelot",
+      "interior_pdf_page": 71,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 35,
+      "name": "Emerald tree boa",
+      "interior_pdf_page": 73,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 36,
+      "name": "Quetzal",
+      "interior_pdf_page": 75,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 37,
+      "name": "Otters",
+      "interior_pdf_page": 77,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 38,
+      "name": "Gibbons",
+      "interior_pdf_page": 79,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 39,
+      "name": "Forest elephant family",
+      "interior_pdf_page": 81,
+      "format": "vector paths; no raster DPI limit"
+    },
+    {
+      "picture": 40,
+      "name": "Jungle friends",
+      "interior_pdf_page": 83,
+      "format": "vector paths; no raster DPI limit"
+    }
+  ],
+  "notes": [
+    "Interior illustrations are exported as scalable black vector paths.",
+    "Final KDP template / Print Previewer and physical proof approval remain required.",
+    "Cover artwork is placed at over 300 native DPI; cover lettering is vector text."
+  ],
+  "minimum_front_cover_art_dpi": 314.9,
+  "interior_raster_images": 0,
+  "embedded_interior_fonts": [
+    "AAAAAA+DejaVuSans-Bold",
+    "AAAAAA+DejaVuSans"
+  ],
+  "checks": [
+    "84 uniform trim-size pages",
+    "40 distinct artwork sources",
+    "40 vector coloring pages",
+    "all picture backs blank",
+    "no raster images in interior",
+    "front-cover artwork >300 DPI",
+    "one-page combined cover"
+  ]
+}

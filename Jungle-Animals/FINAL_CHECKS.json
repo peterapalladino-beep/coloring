@@ -1,0 +1,20 @@
+{
+  "pages": 84,
+  "individual_page_PDFs": 40,
+  "colored_text_spans": 0,
+  "art_outside_half_inch_print_margins": [],
+  "FRONT_cover_inches": [
+    8.5,
+    11.0
+  ],
+  "BACK_cover_inches": [
+    8.5,
+    11.0
+  ],
+  "KDP_WRAP_cover_inches": [
+    17.439167,
+    11.25
+  ],
+  "zip_integrity_error": null,
+  "zipped_individual_PDFs": 40
+}
